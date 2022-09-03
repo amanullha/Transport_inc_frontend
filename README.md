@@ -1,3 +1,7 @@
+# To run this project your have to clone this repo the, install node in your computer. the open the terminal then run 'npm i' to install all the dependency of the project.
+
+# i have take date and duration first the show the slots based on duration and remove all the book slots time . if user clicked book button then book this slot for the user
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
